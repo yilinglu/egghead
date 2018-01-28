@@ -1,0 +1,16 @@
+{
+  "name": "build-algorithms-using-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anagram.js",
+  "dependencies": {
+    "core-js": "2.5.3",
+    "typescript": "2.7.0-dev.20180123"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yiling Lu <yilingl@gmail.com> (https://www.linkedin.com/in/yiling/)",
+  "license": "MIT"
+}
